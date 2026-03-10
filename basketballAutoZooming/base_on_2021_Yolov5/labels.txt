@@ -1,0 +1,4 @@
+0 referee
+1 player
+2 audience
+3 others
