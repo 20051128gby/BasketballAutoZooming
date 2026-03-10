@@ -11,7 +11,6 @@ An automatic basketball video zooming system that detects and classifies scene o
 
 ![demo](Compare.gif)
 
-👉 Full demo video: (replace with your YouTube / Drive link)
 
 ---
 
@@ -138,8 +137,6 @@ This produces smooth, natural camera motion instead of robotic jumps.
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 
 
 ```text
@@ -176,5 +173,4 @@ BasketballAutoZooming/
 
 ## 📄 License
 
-This project is for educational and research purposes.
-
+MIT License
