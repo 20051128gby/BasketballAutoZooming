@@ -9,7 +9,7 @@ An automatic basketball video zooming system that detects and classifies scene o
 
 ## 🎥 Demo
 
-![demo](demo.gif)
+![demo](Compare.gif)
 
 👉 Full demo video: (replace with your YouTube / Drive link)
 
